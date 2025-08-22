@@ -7,3 +7,6 @@ Uma simples homenagem ao Baby Yoda (Grogu), o personagem mais fofo de *The Manda
 [clique aqui](https://renatagabrielalina.github.io/projeto-baby-yoda/)
 
 ---
+
+## 📌 Créditos
+A imagem foi retirada de um vídeo no **YouTube** e utilizada apenas para fins de estudo.
